@@ -13,13 +13,9 @@ function App() {
     { message: "Learn about coding!", xCoord: 230, yCoord: 300 },
     { message: "Follow us on @snow_csclub", xCoord: 500, yCoord: 200 },
     { message: "Hackathon!", xCoord: 700, yCoord: 600 },
-    { message: "Student trip!", xCoord: 800, yCoord: 700 },
     { message: "Join today!", xCoord: 50, yCoord: 800 },
-    { message: "Learn about coding!", xCoord: 650, yCoord: 900 },
-    { message: "Follow us on @snow_csclub", xCoord: 550, yCoord: 750 },
-    { message: "Hackathon!", xCoord: 600, yCoord: 850 },
     { message: "Student trip!", xCoord: 180, yCoord: 650 },
-    { message: "Join today!", xCoord: 100, yCoord: 550 },
+    { message: "Hackathon", xCoord: 100, yCoord: 550 },
   ];
 
   const adjustedBallons = Ballons.map((ballon) => ({

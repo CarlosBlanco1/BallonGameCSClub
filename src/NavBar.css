@@ -6,9 +6,8 @@
 .nav-ctn {
     display: flex;
     flex-direction: row;
-    width: 90vh;
+    width: 50vh;
     align-items: center;
-    justify-content:center;
     position: fixed;
     top: 0;
     gap: 4em;
