@@ -10,18 +10,20 @@
     align-items: center;
     position: fixed;
     top: 0;
-    gap: 4em;
+    gap: 2em;
+    background-color: #aa4108;
+    color: #101f32;
 }
 
 .nav-ctn img {
-    width: 30%;
-    height: 30%;
+    width: 20%;
+    height: 20%;
 }
 
 .nav-ctn span {
     width: 60%;
     font-size: 1em;
     font-family: 'futurista';
-    height: 50px; /* Set a height for the span */
-  line-height: 50px; /* Same as the height to center the text */
+    height: 50px;
+    line-height: 50px;
 }
