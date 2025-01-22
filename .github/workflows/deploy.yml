@@ -42,13 +42,13 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           name: production-files
-          path: ./dist
+          path: ./ballon-game/dist
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: ./ballon-game/dist
           # You may need to ensure the `publish_dir` matches your build folder
           # If using `/ballon-game/` base path, make sure your `dist` contains the correct output.
           user_name: "GitHub Actions"
