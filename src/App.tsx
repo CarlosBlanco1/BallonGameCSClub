@@ -11,7 +11,7 @@ function App() {
     { message: "Student trip!", xCoord: 150, yCoord: 250 },
     { message: "Join today!", xCoord: 100, yCoord: 100 },
     { message: "Learn about coding!", xCoord: 230, yCoord: 300 },
-    { message: "Follow us on @snow_csclub", xCoord: 310, yCoord: 200 },
+    { message: "Follow us on @snow_csclub", xCoord: 250, yCoord: 200 },
     { message: "Hackathon!", xCoord: 700, yCoord: 600 },
     { message: "Join today!", xCoord: 50, yCoord: 800 },
     { message: "Student trip!", xCoord: 180, yCoord: 650 },

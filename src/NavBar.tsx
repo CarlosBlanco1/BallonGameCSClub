@@ -6,7 +6,7 @@ export default function NavBar() {
     <>
       <div className='nav-ctn'>
         <img src={csLogo} id='logo'></img>
-        <span>Welcome to the Snow College CS Club!</span>
+        <span>Welcome to the CS Club!</span>
       </div>
     </>
   );
