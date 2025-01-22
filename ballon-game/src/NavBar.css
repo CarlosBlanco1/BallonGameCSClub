@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'futurista';
+    src: url('/play.ttf') format('truetype');
+  }
+
+.nav-ctn {
+    display: flex;
+    flex-direction: row;
+    width: 90vh;
+    align-items: center;
+    justify-content:center;
+    position: fixed;
+    top: 0;
+    gap: 4em;
+}
+
+.nav-ctn img {
+    width: 10%;
+    height: 10%;
+}
+
+.nav-ctn span {
+    width: 60%;
+    font-size: 1em;
+    font-family: 'futurista';
+    height: 50px; /* Set a height for the span */
+  line-height: 50px; /* Same as the height to center the text */
+}
