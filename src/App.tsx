@@ -9,7 +9,7 @@ function App() {
 
   const Ballons = [
     { message: "Student trip!", xCoord: 150, yCoord: 250 },
-    { message: "Join today!", xCoord: 400, yCoord: 200 },
+    { message: "Join today!", xCoord: 100, yCoord: 100 },
     { message: "Learn about coding!", xCoord: 230, yCoord: 300 },
     { message: "Follow us on @snow_csclub", xCoord: 400, yCoord: 200 },
     { message: "Hackathon!", xCoord: 700, yCoord: 600 },
