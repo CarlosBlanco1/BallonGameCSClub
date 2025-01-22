@@ -16,6 +16,7 @@ function App() {
     { message: "Join today!", xCoord: 50, yCoord: 800 },
     { message: "Student trip!", xCoord: 180, yCoord: 650 },
     { message: "Hackathon", xCoord: 100, yCoord: 550 },
+    { message: "Learn New Things!", xCoord: 150, yCoord: 450 },
   ];
 
   const adjustedBallons = Ballons.map((ballon) => ({
